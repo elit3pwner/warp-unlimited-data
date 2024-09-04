@@ -12,7 +12,7 @@ window_title   = f"WARP-PLUS-CLOUDFLARE By X1NS4N3 (version {script_version})"
 os.system('title ' + window_title if os.name == 'nt' else 'PS1="\[\e]0;' + window_title + '\a\]"; echo $PS1')
 os.system('cls' if os.name == 'nt' else 'clear')
 print ("            *********************************")
-print ("            WARP-PLUS-CLOUDFLARE By X1NS4N3")
+print ("            WARP-PLUS-CLOUDFLARE By elit3pwner")
 print ("            *********************************")
 print ("")
 print ("[+] ABOUT SCRIPT:")
