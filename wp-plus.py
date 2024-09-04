@@ -19,9 +19,9 @@ print ("[+] ABOUT SCRIPT:")
 print ("[-] With this script, you can getting unlimited GB on Warp+.")
 print (f"[-] Version: {script_version}")
 print ("--------")
-print ("[+] THIS SCRIPT CODDED BY X1NS4N3") 
-print ("[-] SITE: X1NS4N3.github.io") 
-print ("[-] TELEGRAM: X1NS4N3")
+print ("[+] THIS SCRIPT CODDED BY elit3pwner") 
+print ("[-] SITE: elit3pwner.github.io") 
+print ("[-] TELEGRAM: @Ac1dMind")
 print ("--------")
 
 def newID():
