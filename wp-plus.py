@@ -8,7 +8,7 @@ import os
 import sys
 import pathlib
 script_version = '4.0.0'
-window_title   = f"WARP-PLUS-CLOUDFLARE By X1NS4N3 (version {script_version})"
+window_title   = f"WARP-PLUS-CLOUDFLARE By elit3pwner (version {script_version})"
 os.system('title ' + window_title if os.name == 'nt' else 'PS1="\[\e]0;' + window_title + '\a\]"; echo $PS1')
 os.system('cls' if os.name == 'nt' else 'clear')
 print ("            *********************************")
